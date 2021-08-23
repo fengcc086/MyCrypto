@@ -1053,6 +1053,7 @@
     "PRIORITY_FEE_TOOLTIP": "This is an optional amount that gets paid to a miner for processing your transaction.",
     "EIP_1559_SETTINGS_HEADER": "EIP 1559",
     "LEDGER_FIRMWARE_NOTICE": "If you cannot connect to your Ledger, make sure your Ledger firmware is up to date in the Ledger Live application.",
-    "VIEW_TRANSACTION_DETAILS": "View Transaction Details"
+    "VIEW_TRANSACTION_DETAILS": "View Transaction Details",
+    "RESEND_TRANSACTION": "Resend Transaction"
   }
 }
